@@ -1,4 +1,4 @@
-update=Tue Aug 22 18:01:49 2017
+update=Fri Aug 25 20:11:18 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=ESP8266
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
